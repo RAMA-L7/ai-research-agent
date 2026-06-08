@@ -149,7 +149,7 @@ research_agent.gs       — main script
 
 **Rama Krishna Ketha**
 - GitHub: [@RAMA-L7](https://github.com/RAMA-L7)
-- LinkedIn: [Rama Krishna Ketha](https://linkedin.com/in/rama-krishna-ketha)
+- LinkedIn: [Rama Krishna Ketha](https://www.linkedin.com/in/rama-krishna-ketha-aa17751b9/)
 
 VLSI Design Engineer building AI automation tools.
 
